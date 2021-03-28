@@ -2,4 +2,4 @@
 
 ## Description
 
-Minesweeper server written in java using sockets.
+Minesweeper socket server written in java.
